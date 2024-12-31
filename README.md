@@ -23,7 +23,7 @@ Finance Tracker is a Python-based application designed to help users manage thei
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/anugrahromadhon/finance-tracker/)
+   git clone https://github.com/anugrahromadhon/finance-tracker
    ```
 2. Navigate to the project directory:
    ```bash
